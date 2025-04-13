@@ -1,8 +1,11 @@
 🌎 Global Life Expectancy Analysis
+
 🚩 About the Project
 Life expectancy varies greatly worldwide—so what drives these differences?
 In this project, I used R to explore how health and socioeconomic factors like GDP, education, HIV/AIDS prevalence, healthcare spending, and BMI influence life expectancy across different countries.
+
 🎯 Project Highlights
+
 🧹 Data Cleaning:
 Thoroughly handled missing values, capped outliers, and ensured data integrity.
 
@@ -11,11 +14,15 @@ Created vibrant visualizations—scatterplots, histograms, and boxplots—to unc
 
 📈 Statistical Modeling:
 Built and refined multiple linear regression models to identify key predictors influencing life expectancy.
+
 📌 Key Insights
+
 ✅ Higher GDP and increased education levels strongly relate to improved life expectancy.
 
 ✅ High HIV/AIDS prevalence significantly reduces average life expectancy, highlighting public health priorities.
+
 🛠️ Tools & Libraries Used
+
 💻 R Programming Language
 
 📊 Libraries:
