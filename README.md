@@ -7,9 +7,13 @@ In this project, I used R to explore how health and socioeconomic factors like G
 🎯 PROJECT SUMMARY
 
 •	Analyzed global factors influencing life expectancy (GDP, education, HIV/AIDS, healthcare spending, BMI) using R.
+
 •	Conducted thorough data cleaning, exploratory analysis, and statistical modeling (multiple linear regression).
+
 •	Identified GDP and schooling as strong positive predictors, and HIV/AIDS prevalence as a negative predictor of life expectancy.
+
 •	Validated model accuracy through regression diagnostics and statistical tests in R.
+
 •	Results highlight the importance of economic and educational improvements, and controlling HIV/AIDS prevalence, to enhance global life expectancy.
 
 📌 KEY INSIGHTS
