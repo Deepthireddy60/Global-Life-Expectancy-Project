@@ -1,20 +1,29 @@
-Global Life Expectancy Project
-About the Project
-This project uses R to look at the factors influencing life expectancy worldwide. It examines how variables like GDP, education, healthcare spending, HIV/AIDS rates, and BMI affect how long people typically live in different countries.
+🌎 Global Life Expectancy Analysis
+🚩 About the Project
+Life expectancy varies greatly worldwide—so what drives these differences?
+In this project, I used R to explore how health and socioeconomic factors like GDP, education, HIV/AIDS prevalence, healthcare spending, and BMI influence life expectancy across different countries.
+🎯 Project Highlights
+🧹 Data Cleaning:
+Thoroughly handled missing values, capped outliers, and ensured data integrity.
 
-What's Included
-Data Cleaning: Taking raw global data, finding missing or unusual values, and making corrections to prepare it for analysis.
+🔎 Exploratory Data Analysis:
+Created vibrant visualizations—scatterplots, histograms, and boxplots—to uncover trends and relationships clearly.
 
-Exploratory Analysis: Visualizing the data using graphs (scatterplots, boxplots) to spot relationships between life expectancy and various factors.
+📈 Statistical Modeling:
+Built and refined multiple linear regression models to identify key predictors influencing life expectancy.
+📌 Key Insights
+✅ Higher GDP and increased education levels strongly relate to improved life expectancy.
 
-Statistical Modeling: Building regression models in R to clearly identify the most important factors affecting life expectancy.
+✅ High HIV/AIDS prevalence significantly reduces average life expectancy, highlighting public health priorities.
+🛠️ Tools & Libraries Used
+💻 R Programming Language
 
-Main Findings
-Countries with higher GDP and better education levels tend to have higher life expectancy.
+📊 Libraries:
 
-Higher HIV/AIDS prevalence significantly lowers average life expectancy.
+ggplot2 (for clear and engaging visuals)
 
-Tools
-R programming language
+dplyr (efficient data manipulation)
 
-Libraries: ggplot2, dplyr, caret, tidyverse
+caret (model building and evaluation)
+
+tidyverse (streamlined data analysis)
